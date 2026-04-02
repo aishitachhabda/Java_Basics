@@ -16,7 +16,7 @@ Arrays and basic string operations
 
 Practice problems and simple programs
 
-Purpose
+Purpose/objective:
 
 The goal of this repository is to track my progress while revising Java basics, improve problem-solving skills, and build a strong foundation in programming.
 
