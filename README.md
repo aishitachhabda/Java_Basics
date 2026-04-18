@@ -23,11 +23,7 @@ The goal of this repository is to track my progress while revising Java basics, 
 Learning Approach
 
 I will regularly update this repository with:
-
 Practice programs
-
 Concept revisions
-
 Small coding exercises while learning Java
 
-This repo acts as a personal revision log and coding practice space as I continue improving my Java fundamentals.
